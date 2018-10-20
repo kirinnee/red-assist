@@ -1,0 +1,31 @@
+{
+  "name": "redassist",
+  "version": "0.0.1",
+  "description": "space app 2018",
+  "main": "index.html",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kirinnee/red-alert.git"
+  },
+  "keywords": [
+    "space",
+    "app",
+    "2018",
+    "red",
+    "assist",
+    "nasa"
+  ],
+  "author": "kirinnee",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kirinnee/red-alert/issues"
+  },
+  "homepage": "https://github.com/kirinnee/red-alert#readme",
+  "dependencies": {
+    "@babel/polyfill": "^7.0.0",
+    "dom4": "^2.1.3"
+  }
+}
