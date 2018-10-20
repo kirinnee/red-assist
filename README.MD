@@ -1,3 +1,7 @@
+# Link to presentation
+
+[HERE](https://kirinnee.github.io/red-assist/)
+
 # SLIDE ROLES
 
 ## Jerry Zhang
